@@ -9,6 +9,14 @@ GitHubName = Ur github username
 GitHubMail = Ur github email
 GH_TOKEN = Ur Github Personal Access Token
 ```
+## Necessary Variables
+- `API_ID` - Your API_ID from [my.telegram.org](https://my.telegram.org/)
+- `API_HASH` - Your API_HASH from [my.telegram.org](https://my.telegram.org/)
+- `SESSION` - SessionString for your accounts login session. Get it from [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
+- `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
+- `REDIS_PASSWORD ` - Redis endpoint Password, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
+
+
 
 Go to your Wfs forked repo and go to actions tab and voila Enjoy xD
 
